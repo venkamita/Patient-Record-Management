@@ -26,6 +26,7 @@ This project is a simple command-line based Hospital Record Management System de
 
 ```
 🧾 Notes
+---
 Maximum 5 symptoms per patient
 
 Doctor assignment is based on exact match of one symptom from doctor.txt
