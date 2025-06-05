@@ -43,9 +43,10 @@ Also pursuing BS in Data Science and Applications @ IITM Online
 ---
 This project is open source and free to use under the MIT License.
 
----
 
-### 🧪 Final Notes
+
+🧪 Final Notes
+---
 
 The code is logically sound and should work well when:
 - `doctor.txt` exists and follows the expected format.
