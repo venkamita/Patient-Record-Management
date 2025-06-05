@@ -31,11 +31,13 @@ Maximum 5 symptoms per patient
 Doctor assignment is based on exact match of one symptom from doctor.txt
 
 For unmatched symptoms, the default assigned doctor is General Physician
-
+---
 👨‍💻 Author
 Made with ❤️ by Sharat Doddihal
 B.Tech CSE @ PES University
+
 Also pursuing BS in Data Science and Applications @ IITM Online
+---
 📜 License
 This project is open source and free to use under the MIT License.
 
