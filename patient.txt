@@ -1,0 +1,35 @@
+ID: 1
+Name: Alice Smith
+Age: 32
+Symptoms:Rash
+Appointment: 2025-05-26
+ID: 2
+Name: Bob Johnson
+Age: 45
+Symptoms:Cough
+Appointment: 2025-05-23
+ID: 3
+Name: Carol Gupta
+Age: 27
+Symptoms:Fever
+Appointment: 2025-05-24
+ID: 4
+Name: Dinesh Patel
+Age: 52
+Symptoms:Rash
+Appointment: 2025-05-25
+ID: 5
+Name: Carlos Rodriguez
+Age: 24
+Symptoms:Rash
+Appointment: 2025-05-31
+ID: 6
+Name: sharat
+Age: 26
+Symptoms:Headache
+Appointment: 2025-05-30
+ID: 7
+Name: Qwerty
+Age: 18
+Symptoms:cold
+Appointment: 2025-06-01

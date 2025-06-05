@@ -1,0 +1,4 @@
+101:Dr. Rajesh Kumar:General Medicine:Physician:9876543210:Fever:1,3,5
+102:Dr. Meena Joshi:Pulmonology:Chest Specialist:9123456780:Cough:2
+103:Dr. Anita Sharma:Dermatology:Skin Specialist:9988776655:Rash:4,5
+104:Dr. Shilpa Gowda:Abc:Cdf Specialist:1234567891:cold:1,2
