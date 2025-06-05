@@ -14,7 +14,7 @@ This project is a simple command-line based Hospital Record Management System de
 
 ## 🛠️ File Structure
 
-- `main.c` – Contains the full implementation
+- `hospitalrecord.c` – Contains the full implementation
 - `patient.txt` – Stores all patient records (created automatically if not present)
 - `doctor.txt` – Doctor database used for assigning based on symptoms
 
